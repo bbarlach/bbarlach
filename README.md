@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bernardo Barlach
+### Executive Program Leader @ Google LATAM | W3C AGWG Representative (WCAG 3.0) | Applied AI & Assistive Tech Strategist
 
-<!--
-**bbarlach/bbarlach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of **Generative AI, Autonomous Agents, Product Operations, and Digital Accessibility**. With 15+ years leading cross-functional programs at **Google, Meta, Twitter, and Itaú Unibanco**, I focus on translating emerging AI capabilities into equitable, scalable user experiences.
 
-Here are some ideas to get you started:
+### Current Focus Areas
+- **AI & Multimodal Accessibility (WCAG 3.0):** Representing Google on the W3C Accessibility Guidelines Working Group (AGWG) to define accessibility standards for LLM interfaces, AI agents, and next-gen web ecosystems.
+- **Google Accessibility Discovery Center (ADC) LATAM:** Founded and lead Google's flagship inclusive innovation lab in Latin America.
+- **Applied AI & Agentic Workflows:** Designing prompt engineering frameworks, LLM accessibility evaluators, and assistive AI agent prototypes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Frameworks & Prompts
+- **`wcag3-ai-ux-evaluator`** — Structured LLM system prompts & evaluation rubrics for auditing generative UI, conversational agents, and multimodal outputs against WCAG 2.2 & emerging WCAG 3.0 functional needs.
+
+### Connect
+- **LinkedIn:** [linkedin.com/in/bernardobarlach](https://www.linkedin.com/in/bernardobarlach/)
+- **Location:** São Paulo, Brazil (Open to Global Remote & LATAM Executive Leadership)
