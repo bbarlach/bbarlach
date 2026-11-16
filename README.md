@@ -8,9 +8,6 @@ I work at the intersection of **Generative AI, Autonomous Agents, Product Operat
 - **Google Accessibility Discovery Center (ADC) LATAM:** Founded and lead Google's flagship inclusive innovation lab in Latin America.
 - **Applied AI & Agentic Workflows:** Designing prompt engineering frameworks, LLM accessibility evaluators, and assistive AI agent prototypes.
 
-### Featured Frameworks & Prompts
-- **`wcag3-ai-ux-evaluator`** — Structured LLM system prompts & evaluation rubrics for auditing generative UI, conversational agents, and multimodal outputs against WCAG 2.2 & emerging WCAG 3.0 functional needs.
-
 ### Connect
 - **LinkedIn:** [linkedin.com/in/bernardobarlach](https://www.linkedin.com/in/bernardobarlach/)
 - **Location:** São Paulo, Brazil (Open to Global Remote & LATAM Executive Leadership)
